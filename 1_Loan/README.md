@@ -18,6 +18,6 @@ Used Python for data preparation & feature engineering, and Power BI for interac
 ![Loan Visuals Page 3](extracted_images/visualization_page_3.png)
 
 ## Links
-- 📓 [View Notebook](https://github.com/ian-obotey/Data-Analysis/blob/main/Projects/Loans/Notebook.ipynb)
+- 📓 [View Notebook](Notebook.ipynb)
 - 📄 [Full Report (PDF)](loan-dataset-project.pdf)
 - 📊 *Power BI Dashboard – Coming Soon*
