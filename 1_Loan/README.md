@@ -3,8 +3,7 @@
 **Skills:** Python (Pandas, Matplotlib), SQL, Power BI, Data Cleaning, EDA  
 
 ## Overview
-Analyzed 255,347 synthetic loan records to uncover borrower trends, credit score patterns, and default risk insights.  
-Used Python for data preparation & feature engineering, and Power BI for interactive dashboards.
+Analyzed 255,347 synthetic loan records to uncover borrower trends, credit score patterns, and default risk insights. Used Python for data preparation & feature engineering, and Power BI for interactive dashboards.
 
 ## Process
 - **Data Preparation:** Cleaned dataset, formatted fields, removed duplicates.
@@ -18,6 +17,6 @@ Used Python for data preparation & feature engineering, and Power BI for interac
 ![Loan Visuals Page 3](extracted_images/visualization_page_3.png)
 
 ## Links
-- 📓 [View Notebook](Notebook.ipynb)
-- 📄 [Full Report (PDF)](loan-dataset-project.pdf)
+- 📓 [View Notebook](https://github.com/ian-obotey/Data-Analysis/blob/main/1_Loan/Notebook.ipynb)
+- 📄 [Full Report (PDF)](https://github.com/ian-obotey/Data-Analysis/blob/main/1_Loan/loan-dataset-project.pdf)
 - 📊 *Power BI Dashboard – Coming Soon*
