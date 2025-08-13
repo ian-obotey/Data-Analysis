@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Loan Records Data Analysis</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-50 text-gray-800">
+  <div class="max-w-5xl mx-auto p-6">
+    <a href="index.html" class="text-sm text-blue-600 hover:underline">&larr; Back to Portfolio</a>
+    <h1 class="text-3xl font-bold mb-2 mt-2">📊 Loan Records Data Analysis</h1>
+    <p class="bg-blue-50 border-l-4 border-blue-500 text-blue-700 p-3 mb-6">
+      <strong>Skills:</strong> Python (Pandas, Matplotlib), SQL, Power BI, Data Cleaning, EDA
+    </p>
+    <section class="mb-8">
+      <h2 class="text-2xl font-semibold mb-2">Overview</h2>
+      <p>
+        Analyzed 255,347 synthetic loan records to uncover borrower trends, credit score patterns,
+        and default risk insights. Used Python for data preparation and feature engineering,
+        and Power BI for interactive dashboards.
+      </p>
+    </section>
+    <section class="mb-8">
+      <h2 class="text-2xl font-semibold mb-2">Process</h2>
+      <ul class="list-disc list-inside space-y-1">
+        <li><strong>Data Preparation:</strong> Cleaned dataset, formatted fields, removed duplicates</li>
+        <li><strong>Feature Engineering:</strong> Added <code>IncomeCategory</code>, <code>ScoreCategory</code>, <code>LoanYear</code></li>
+        <li><strong>EDA in Python:</strong> Loan distribution, credit score analysis, loan trends over time</li>
+        <li><strong>Power BI Dashboard:</strong> Loan classification, default rate analysis, borrower segmentation</li>
+      </ul>
+    </section>
+    <section class="mb-8">
+      <h2 class="text-2xl font-semibold mb-4">Key Visuals</h2>
+      <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+        <img src="extracted_images/visualization_page_1.png" alt="Loan Visuals Page 1" class="rounded-lg shadow">
+        <img src="extracted_images/visualization_page_2.png" alt="Loan Visuals Page 2" class="rounded-lg shadow">
+        <img src="extracted_images/visualization_page_3.png" alt="Loan Visuals Page 3" class="rounded-lg shadow">
+      </div>
+    </section>
+    <section class="mb-8">
+      <h2 class="text-2xl font-semibold mb-2">Insights</h2>
+      <ul class="list-disc list-inside space-y-1">
+        <li>Unemployed and medium-income earners received the largest loan share.</li>
+        <li>Business loans to self-employed borrowers showed strong repayment performance.</li>
+        <li>Default rates peaked in 2016 at 11.75%.</li>
+        <li>Full-time employees had the lowest default rate (9.46%).</li>
+      </ul>
+    </section>
+    <section>
+      <h2 class="text-2xl font-semibold mb-2">Links</h2>
+      <div class="flex flex-wrap gap-3">
+        <a href="https://github.com/ian-obotey/Data-Analysis/blob/main/Projects/Loans/Notebook.ipynb" target="_blank" class="bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700">📓 View Notebook</a>
+        <a href="loan-dataset-project.pdf" target="_blank" class="bg-green-600 text-white px-4 py-2 rounded hover:bg-green-700">📄 Full Report</a>
+        <a href="#" target="_blank" class="bg-yellow-600 text-white px-4 py-2 rounded hover:bg-yellow-700">📊 Power BI Dashboard</a>
+      </div>
+    </section>
+  </div>
+</body>
+</html>
