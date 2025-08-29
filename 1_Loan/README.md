@@ -19,4 +19,4 @@ Analyzed 255,347 synthetic loan records to uncover borrower trends, credit score
 ## Links
 - 📓 [View Notebook](https://github.com/ian-obotey/Data-Analysis/blob/main/1_Loan/Notebook.ipynb)
 - 📄 [Full Report (PDF)](https://github.com/ian-obotey/Data-Analysis/blob/main/1_Loan/Loan%20dataset%20project.pdf)
-- 📊 *Power BI Dashboard – Coming Soon*
+
